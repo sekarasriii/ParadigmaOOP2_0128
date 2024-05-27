@@ -9,6 +9,7 @@ public:
 	}
 };
 
+
 class derivedClass : public baseClass {
 public:
 	void perkenalan() {
