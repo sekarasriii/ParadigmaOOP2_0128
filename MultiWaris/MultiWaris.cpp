@@ -45,6 +45,7 @@ public:
 	}
 };
 
+
 int main() {
 	budi a(12);
 
